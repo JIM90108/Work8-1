@@ -13,6 +13,7 @@
 		EB56CA56280519FF007E4C36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB56CA54280519FF007E4C36 /* Main.storyboard */; };
 		EB56CA5828051A00007E4C36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB56CA5728051A00007E4C36 /* Assets.xcassets */; };
 		EB56CA5B28051A00007E4C36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB56CA5928051A00007E4C36 /* LaunchScreen.storyboard */; };
+		EB56CA632805316F007E4C36 /* carList.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB56CA622805316F007E4C36 /* carList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EB56CA5728051A00007E4C36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB56CA5A28051A00007E4C36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB56CA5C28051A00007E4C36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB56CA622805316F007E4C36 /* carList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = carList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				EB56CA52280519FF007E4C36 /* ViewController.swift */,
 				EB56CA54280519FF007E4C36 /* Main.storyboard */,
 				EB56CA5728051A00007E4C36 /* Assets.xcassets */,
+				EB56CA622805316F007E4C36 /* carList.swift */,
 				EB56CA5928051A00007E4C36 /* LaunchScreen.storyboard */,
 				EB56CA5C28051A00007E4C36 /* Info.plist */,
 			);
@@ -140,6 +143,7 @@
 			files = (
 				EB56CA53280519FF007E4C36 /* ViewController.swift in Sources */,
 				EB56CA4F280519FF007E4C36 /* AppDelegate.swift in Sources */,
+				EB56CA632805316F007E4C36 /* carList.swift in Sources */,
 				EB56CA51280519FF007E4C36 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
